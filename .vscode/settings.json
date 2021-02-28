@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "proto.h": "c",
+        "client.h": "c",
+        "ip.h": "c",
+        "getopt.h": "c",
+        "server_conf.h": "c",
+        "types.h": "c"
+    }
+}
